@@ -1,4 +1,4 @@
-- Hi, I’m @NeoracleDoesStuff
+- Hi, I’m @NeoracleDoesStuff, call me Neoracle instead.
 - I’m interested in Programming.
 - I’m currently learning HTML, CSS, and Javascript.
 - I like games, memes, music, programming.
